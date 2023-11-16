@@ -1,0 +1,12 @@
+.box {
+  width: 200px;
+  height: 250px;
+  background-color: #ffffff;
+  border: 3px solid #00ff0d;
+  padding: 30px;
+  margin-top: 40px;
+  margin-left: 550px;
+}
+.but-ton {
+  margin-top: 10px;
+}
